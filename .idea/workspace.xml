@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e5b8d50-5b6a-4133-884f-8e8accfb4286" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\php\php.exe">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/views/pages" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2XqbG8VEtaywIGNuDs3pirFgqpy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OSPanel\domains\mvc\views\pages" />
+      <recent name="D:\OSPanel\domains\mvc" />
+      <recent name="D:\OSPanel\domains\mvc\app\assets" />
+      <recent name="D:\OSPanel\domains\mvc\app" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e5b8d50-5b6a-4133-884f-8e8accfb4286" name="Changes" comment="" />
+      <created>1699359458499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699359458499</updated>
+      <workItem from="1699359459700" duration="1915000" />
+      <workItem from="1699361397832" duration="418000" />
+      <workItem from="1699361826492" duration="8299000" />
+      <workItem from="1699443846392" duration="4478000" />
+      <workItem from="1699462904758" duration="2934000" />
+      <workItem from="1699523929447" duration="21000" />
+      <workItem from="1699615122237" duration="5536000" />
+      <workItem from="1699633598479" duration="755000" />
+      <workItem from="1699720126534" duration="604000" />
+      <workItem from="1699792777348" duration="7175000" />
+      <workItem from="1699986434908" duration="827000" />
+      <workItem from="1700051871223" duration="1105000" />
+      <workItem from="1700322962527" duration="1714000" />
+      <workItem from="1700486853363" duration="3934000" />
+      <workItem from="1700574834165" duration="551000" />
+      <workItem from="1700649191409" duration="3380000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
